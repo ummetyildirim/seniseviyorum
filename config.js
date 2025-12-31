@@ -5,8 +5,8 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
     "Sevgilim",
+    "Aramızda mesafeler olabilir ama",
     "kalbim her gün sana daha da yaklaşıyor",
-    "Ama kalplerimiz hep yan yana",
    "Seni seviyorum"
 ]
 
