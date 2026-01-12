@@ -1,6 +1,7 @@
-window.addEventListener("load", () => {
+window.addEventListener("DOMContentLoaded", () => {
     new Container(config.wish, config.time, config.texts);
 });
+
 
 function Container(wish, time, texts) {
     this.passedSeconds = 0;
